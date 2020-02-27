@@ -50,16 +50,16 @@ PORTION_1 = { label:"Kingdom",
     }
 }
  }, 
- PORTION_2 => {
+ PORTION_2 = {
 label: "Order"
 },
-PORTION_3 => {
+PORTION_3 = {
 label: "Family",
  sub_category: {
 label: "Genus",
 } },
 
-PORTION_4 => {
+PORTION_4 = {
 label: "Species",
 sub_category: nil }
 end
